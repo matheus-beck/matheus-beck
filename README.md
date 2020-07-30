@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**matheus-beck/matheus-beck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏭 I’m currently working at Ericsson Inovação S.A. as QA developer  
+💻 I have more than 2 years of industry experience building, testing and maintaining software applications  
+🎓 I'm a computer engineering student at the Federal University of Bahia  
+🥐 In 2016 I got a scholarship from CAPES to study computer science for one year at Grenoble INP - Ensimag in France  
 
-Here are some ideas to get you started:
+⭐ My main skills are:
+- Front-end: HTML5, CSS3, JavaScript, React.js, React Native  
+- Back-end: Docker, Node.js, Express.js, TypeScript, Ruby, PL/SQL, C/C++  
+- Database: Oracle DB, PostgreeSQL, MongoDB  
+- QA: Cypress, Jest, Cucumber, RSpec, Capybara, SoapUI, Postman, Apache JMeter, Jenkins  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+
+- Linkedin: https://www.linkedin.com/in/matheus-beck/
+- Portfolio: https://www.gitshowcase.com/matheus-beck
+- Blog: https://matheus-beck.github.io/blog/ 
