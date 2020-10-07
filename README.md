@@ -6,9 +6,9 @@
 🥐 In 2016 I got a scholarship from CAPES to study computer science for one year at Grenoble INP - Ensimag in France  
 
 ⭐ My main skills are:
-- QA: Ruby, Cypress, Jest, Cucumber, RSpec, Capybara, SoapUI, Postman, Apache JMeter, Jenkins
+- QA: Cypress, Jest, Cucumber, RSpec, Capybara, SoapUI, Postman, Apache JMeter, Jenkins
 - Front-end: HTML5, CSS3, JavaScript, React.js, React Native  
-- Back-end: Docker, Node.js, Express.js, TypeScript, Ruby, PL/SQL, C/C++  
+- Back-end: Ruby, Docker, Node.js, Express.js, TypeScript, Java, PL/SQL, C/C++  
 - Database: Oracle DB, PostgreeSQL, MongoDB  
   
 📫 How to reach me: 
