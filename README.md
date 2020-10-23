@@ -15,4 +15,3 @@
 
 - Linkedin: https://www.linkedin.com/in/matheus-beck/
 - Portfolio: https://www.gitshowcase.com/matheus-beck
-- Blog: https://matheus-beck.github.io/blog/ 
