@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏭 I’m currently working at Ericsson Inovação S.A. as QA automation developer  
+🏭 I’m currently working at [WEX](https://www.wexinc.com/) as QA Engineer II
 💻 I have more than 2 years of industry experience building, testing and maintaining software applications  
 🎓 I'm a computer engineering student at the Federal University of Bahia  
 🥐 In 2016 I got a scholarship from CAPES to study computer science for one year at Grenoble INP - Ensimag in France  
