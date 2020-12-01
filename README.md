@@ -12,6 +12,5 @@
 - Database: Oracle DB, PostgreeSQL, MongoDB  
   
 📫 How to reach me: 
-
-- Linkedin: https://www.linkedin.com/in/matheus-beck/
-- Portfolio: https://www.gitshowcase.com/matheus-beck
+ - <p> <a href="https://www.gitshowcase.com/matheus-beck"> <img src="https://img.shields.io/badge/GitShowCase-100000?style=for-the-badge&logo=github&logoColor=white"> </p>  
+ - <p> <a href="https://www.linkedin.com/in/matheus-beck/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </p>  
