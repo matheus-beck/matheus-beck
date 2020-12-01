@@ -11,7 +11,6 @@
 - Back-end: Ruby, Docker, Node.js, Express.js, TypeScript, Java, PL/SQL, C/C++  
 - Database: Oracle DB, PostgreeSQL, MongoDB  
   
-📫 How to reach me: 
-<div style="display:flex;">
-<div> <a href="https://www.gitshowcase.com/matheus-beck"> <img src="https://img.shields.io/badge/GitShowCase-100000?style=for-the-badge&logo=github&logoColor=white"> </div> <div> <a href="https://www.linkedin.com/in/matheus-beck/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </div>  
-</div>
+📫 How to reach me:  
+[![GitShowCase Badge](https://img.shields.io/badge/GitShowCase-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.gitshowcase.com/matheus-beck)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-beck/)
