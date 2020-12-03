@@ -3,7 +3,7 @@
 🏭 I’m currently working at [WEX](https://www.wexinc.com/) as QA Engineer II  
 💻 I have 3 years of industry experience testing and maintaining software applications  
 🎓 I'm a computer engineering student at the [Federal University of Bahia](https://ufba.br/)  
-🥐 In 2016 I earned a scholarship from CAPES to study computer science for one year at [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/) in France  
+🥐 In 2016 I earned a scholarship from CAPES to study computer science for a year at [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/) in France  
 ☕ I'm passionate about coding, good books and good coffee 💖  
 🎸 I love playing the ukulele and acoustic guitar!  
 
