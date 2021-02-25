@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🏭 I’m currently working at WEX as QA Engineer II  
-💻 I have more than 3 years of industry experience testing and maintaining software applications  
-🥐 I earned a scholarship from CAPES to study computer science for a year at Grenoble INP - Ensimag in France  
+🏭 I’m currently working at WEX as QA Automation Engineer II  
+💻 I have more than 3 years of work experience testing software applications  
 ☕ I'm passionate about coding, good books and good coffee  
 🎸 I love playing the ukulele and acoustic guitar!  
 
