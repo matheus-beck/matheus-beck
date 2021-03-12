@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🏭 I am currently working at WEX as QA automation engineer II  
-💻 I have more than 3 years of work experience testing software applications  
+💻 I have more than 3 years of work experience testing software applications (front-end and back-end)   
+👨‍💻 I have experience with black-box, smoke, functional, integration, and regression testing  
 ☕ I am passionate about coding, good books, and good coffee  
 🎸 I love playing the ukulele and acoustic guitar  
 
