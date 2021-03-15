@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-💻 I have more than 3 years of work experience testing software applications (front-end and back-end)   
-👨‍💻 I have experience with black-box, smoke, functional, integration, and regression testing  
-☕ I am passionate about coding, good books, and good coffee  
-🎸 I love playing the ukulele and acoustic guitar  
+🏭 I have more than 3 years of work experience testing software applications  
+👨‍💻 I have experience with manual and automated testing  
+✍️ I have experience writing test cases and test planning  
+👀 I have experience monitoring CI/CD pipelines using Jenkins  
+☕ I am passionate about coding, the ukulele, good books, and good coffee  
 
 ⭐ I have work experience with:  
-• Java, Ruby, Cucumber, Postman, Selenium, Jenkins, RSpec, SoapUI, Apache JMeter, Oracle DB, PL/SQL, Docker  
+• Java, Ruby (RSpec, Capybara), Cucumber, Postman, Selenium, Jenkins, SoapUI, Apache JMeter, Oracle DB, PL/SQL, Docker  
 ⭐ I have played and studied the following:  
-• Cypress, Jest, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, HTML5, CSS3, JavaScript, React.js, React Native, C/C++, Python  
+• JavaScript, Cypress, Jest, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, HTML5, CSS3, React.js, React Native, C/C++, Python  
   
 📫 How to reach me:  
 
