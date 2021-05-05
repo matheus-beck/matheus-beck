@@ -6,10 +6,8 @@
 👀 I have experience monitoring CI/CD pipelines using Jenkins  
 ☕ I am passionate about coding, the ukulele, good books, and good coffee  
 
-⭐ I have work experience with:  
-• Java, Ruby (RSpec, Capybara), Cucumber, Postman, Selenium, Jenkins, SoapUI, Apache JMeter, Oracle DB, PL/SQL, Docker  
-⭐ I have played and studied the following:  
-• JavaScript, Cypress, Jest, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, HTML5, CSS3, React.js, React Native, C/C++, Python  
+⭐ I have work experience with Java, Ruby (RSpec, Capybara), Cucumber, Postman, Selenium, Jenkins, SoapUI, Apache JMeter, Oracle DB, PL/SQL, Docker  
+⭐ I have played and studied JavaScript, Cypress, Jest, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, HTML5, CSS3, React.js, React Native, C/C++, Python  
   
 📫 How to reach me:  
 
