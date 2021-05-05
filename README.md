@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🏭 I have more than 3 years of work experience testing software applications  
-👨‍💻 I have experience with manual and automated testing  
+👨‍💻 I have experience with manual and automated testing using BDD  
 ✍️ I have experience writing test cases and test planning  
 👀 I have experience monitoring CI/CD pipelines using Jenkins  
 ☕ I am passionate about coding, the ukulele, good books, and good coffee  
