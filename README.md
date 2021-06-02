@@ -30,5 +30,6 @@
 
 📫 How to reach me:  
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-beck/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matheus.alencarbeck@gmail.com)](mailto:matheus.alencarbeck@gmail.com)
 [![GitShowCase Badge](https://img.shields.io/badge/GitShowCase-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.gitshowcase.com/matheus-beck)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-beck/)  
