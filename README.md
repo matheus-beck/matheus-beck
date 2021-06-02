@@ -4,7 +4,30 @@
 
 🏭 I have more than 3 years of work experience testing software applications. I have experience with manual and automated testing using BDD. I have experience with black-box testing, regression testing, performance testing, API testing, database testing, front-end testing, and mock testing. I have experience writing test cases and test planning. I have experience monitoring CI/CD pipelines using Jenkins.  
 
-⭐ I have work experience with Java, Ruby (RSpec, Capybara), Cucumber, Postman, Selenium, Jenkins, Docker, Mountebank, SoapUI, Apache JMeter, Oracle DB, and PL/SQL. I have study experience with JavaScript, Cypress, Jest, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, HTML5, CSS3, React.js, React Native, C/C++, and Python.  
+⭐ I have experience with:
+<p align="left"> 
+  <a href="https://java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> 
+  <a href="https://cucumber.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="cucumber" width="40" height="40"/> </a> 
+  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="http://www.mbtest.org/" target="_blank"> <img src="http://www.mbtest.org/images/mountebank.png" alt="mountebank" width="40" height="40"/> </a>
+  <a href="https://www.soapui.org/" target="_blank"> <img src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png" alt="soapui" width="40" height="40"/> </a>
+  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"> <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="plsql" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.cypress.io/" target="_blank"> <img src="https://media.glassdoor.com/sqll/2194774/cypress-io-squarelogo-1532611957340.png" alt="jest" width="40" height="40"/> </a>
+  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</p>
 
 📫 How to reach me:  
 
