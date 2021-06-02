@@ -6,9 +6,6 @@
 
 ⭐ I have work experience with Java, Ruby (RSpec, Capybara), Cucumber, Postman, Selenium, Jenkins, Docker, Mountebank, SoapUI, Apache JMeter, Oracle DB, and PL/SQL. I have study experience with JavaScript, Cypress, Jest, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, HTML5, CSS3, React.js, React Native, C/C++, and Python.  
 
-GitHub: https://github.com/matheus-beck  
-Portfolio: https://www.gitshowcase.com/matheus-beck  
-  
 📫 How to reach me:  
 
 [![GitShowCase Badge](https://img.shields.io/badge/GitShowCase-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.gitshowcase.com/matheus-beck)
