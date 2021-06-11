@@ -2,8 +2,7 @@
 
 🤵 I'm 25, married, living in Salvador (Brazil). I am passionate about coding, playing musical instruments, tv shows, movies, good books, good coffee, and video games. I'm a nerd but I'm also a husband, musician, athlete, self-learner, and extremely resilient.  
 
-🏭 I have more than 3 years of work experience testing software applications. 
-I have experience with: Manual and automated testing using BDD. Functional and non-functional testing. Black-box testing, regression testing, performance testing, API testing, database testing, front-end testing, and mock testing. Test cases and test planning writing. Monitoring CI/CD pipelines using Jenkins.  
+🏭 I have more than 3 years of work experience testing software applications for the financial technology industry and for the telecom industry. I have experience with: Manual and automated testing using BDD. Functional and non-functional testing. Black-box testing, regression testing, performance testing, API testing, database testing, front-end testing, and mock testing. Test cases and test planning writing. Monitoring CI/CD pipelines using Jenkins.  
 
 ⭐ I have experience with:
 <p align="left"> 
