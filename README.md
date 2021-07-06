@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, I'm Matheus Beck 🤙 </h1>
 
-🤵 I'm 25, married, living in Salvador (Brazil). I am passionate about coding, playing musical instruments, tv shows, movies, good books, good coffee, and video games. I'm a nerd but I'm also a husband, musician, athlete, self-learner, and extremely resilient.  
+🤵 I'm 25, married, living in Salvador (Brazil). I am passionate about coding, playing musical instruments, tv shows, movies, good books, good coffee, video games, and exercises.  
 
-🏭 I have more than 3 years of work experience testing software applications for the financial technology industry and for the telecom industry. I have experience with manual and automated testing using BDD, functional and non-functional testing, black-box testing, regression testing, performance testing, API testing, database testing, front-end testing, and mock testing. I also have experience with test cases and test planning writing, and monitoring CI/CD pipelines using Jenkins.  
+🏭 Working as QA since 2017, I have been testing software applications for the financial technology industry and for the telecom industry. I have helped different companies to achieve excellent quality standards being responsible for test cases creation, test plans writing, manual and automated testing using BDD, functional and non-functional testing, black-box testing, regression testing, API testing, database testing, front-end testing, mock testing, performance testing, and CI/CD pipelines using Jenkins.    
 
 ⭐ I have experience with:
 <p align="left"> 
