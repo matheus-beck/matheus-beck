@@ -2,7 +2,7 @@
 
 🤵 I'm 25, married, living in Salvador (Brazil). I am passionate about coding, playing musical instruments, tv shows, movies, good books, good coffee, video games, and exercises.  
 
-🏭 Working as QA since 2017, I have been testing software applications for the financial technology industry and the telecom industry. I have helped different companies to achieve excellent quality standards being responsible for test cases creation, test plan writing, manual and automated testing using BDD, functional and non-functional testing, black-box testing, regression testing, API testing, database testing, front-end testing, mock testing, performance testing, and CI/CD pipelines using Jenkins.    
+🏭 Working as Software QA since 2017, I have helped different companies in the financial technology industry and the telecom industry to achieve excellent quality standards.   
 
 ⭐ I have experience with:
 <p align="left"> 
