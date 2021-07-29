@@ -2,7 +2,7 @@
 
 🤵 I'm 26, married, living in Salvador (Brazil). 
 
-💕 I am passionate about coding, playing musical instruments, tv shows, movies, good books, good coffee, video games, and exercises.  
+💕 I'm passionate about coding, musical instruments, tv shows, movies, books, coffee, video games, and exercises.  
 
 🏭 Working as Software QA since 2017, I have helped different companies in the financial technology industry and the telecom industry to achieve excellent quality standards.   
 
