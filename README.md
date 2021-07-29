@@ -4,7 +4,7 @@
 
 💕 I'm passionate about coding, musical instruments, good books, video games, and exercises.  
 
-🏭 Working as Software QA since 2017, I have helped different companies in the financial technology industry and the telecom industry to achieve excellent quality standards.   
+🏭 Working as Software QA since 2017, I have helped different companies in the financial technology and telecom industries to achieve excellent quality standards.  
 
 ⭐ I have experience with:
 <p align="left"> 
