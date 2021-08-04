@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there, I'm Matheus Beck 🤙 </h1>
 
-🤵 I'm 26, married, living in Salvador (Brazil). 
-
-💕 I'm passionate about coding, musical instruments, good books, video games, and exercises.  
+🤵 I'm 26, married, passionate about coding, musical instruments, good books, video games, and exercises.  
 
 🏭 Working as Software QA since 2017, I have helped different companies in the financial technology and telecom industries to achieve excellent quality standards.  
 
